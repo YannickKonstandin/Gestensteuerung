@@ -1,0 +1,6 @@
+{
+    "port": "/dev/ttyUSB1",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "sketch": "board_programm_arduino/board_programm_arduino.ino"
+}
